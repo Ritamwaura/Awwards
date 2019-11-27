@@ -7,8 +7,8 @@ This is a Python application about Awards where we are able to appreciate all th
 # Installation Instruction
 * install pip
 * install python3.6 ```pip install python3```
-* activate the virtual environment ```python3.6 -m venv --without pip install virtual```
-* pip install django==1.11
+* activate the virtual environment ```python3.7 -m venv --without pip install virtual```
+* pip install django==1.11.17
 
 # Set-Up Instructions
 * Open Terminal {Ctrl+Shift+T}
