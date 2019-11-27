@@ -13,10 +13,6 @@ This is a Python application about Awards where we are able to appreciate all th
 # Set-Up Instructions
 * Open Terminal {Ctrl+Shift+T}
 
-
-
-* cd InstaClone
-
 * ```code .``` or ```atom .``` based on the text editor you have.
 * ```pip install -r requirements.txt```
 
@@ -31,13 +27,12 @@ This is a Python application about Awards where we are able to appreciate all th
 
 # Technologies Used
 * Python3.7
-* Django == 1.11 **as framework for python**
+* Django == 1.11.14 **as framework for python**
 * Postgresql **for database**
-* Heroku **deployment**
+* Heroku **deployment*
 
 # Contact Information
 If you wish to get more information on my projects please contact me at mwaurarita@gmail.com
 # Licence Information
-[MIT LICENCE](https://github.com/lavylipesh/Our-awards/blob/master/LICENSE)
-Copyright (c) 2019 Rita mwaura
+[MIT LICENCE](httpsCopyright (c) 2019 Rita mwaura
 
